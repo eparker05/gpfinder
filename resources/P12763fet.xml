@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1989-10-01" modified="2014-02-19" version="106">
+<accession>P12763</accession>
+<accession>A6QLF7</accession>
+<name>FETUA_BOVIN</name>
+<protein>
+<recommendedName>
+<fullName>Alpha-2-HS-glycoprotein</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Asialofetuin</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Fetuin-A</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">AHSG</name>
+<name type="synonym">FETUA</name>
+</gene>
+<organism>
+<name type="scientific">Bos taurus</name>
+<name type="common">Bovine</name>
+<dbReference type="NCBI Taxonomy" id="9913"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Laurasiatheria</taxon>
+<taxon>Cetartiodactyla</taxon>
+<taxon>Ruminantia</taxon>
+<taxon>Pecora</taxon>
+<taxon>Bovidae</taxon>
+<taxon>Bovinae</taxon>
+<taxon>Bos</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="4354" last="4357">
+<title>The complete cDNA and amino acid sequence of bovine fetuin. Its homology with alpha 2HS glycoprotein and relation to other members of the cystatin superfamily.</title>
+<authorList>
+<person name="Dziegielewska K.D."/>
+<person name="Brown W.M."/>
+<person name="Casey S.J."/>
+<person name="Christie D.L."/>
+<person name="Foreman R.C."/>
+<person name="Hill R.M."/>
+<person name="Saunders N.R."/>
+</authorList>
+<dbReference type="PubMed" id="1689725"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="2007-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIH - Mammalian Gene Collection (MGC) project"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>Hereford</strain>
+<tissue>Fetal liver</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1987" name="FEBS Lett." volume="214" first="45" last="49">
+<title>Fetuin: the bovine homologue of human alpha 2HS glycoprotein.</title>
+<authorList>
+<person name="Christie D.L."/>
+<person name="Dziegielewska K.M."/>
+<person name="Hill R.M."/>
+<person name="Saunders N.R."/>
+</authorList>
+<dbReference type="PubMed" id="2436943"/>
+<dbReference type="DOI" id="10.1016/0014-5793(87)80010-8"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 19-123 AND 188-243</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1981" name="Biochem. Biophys. Res. Commun." volume="99" first="30" last="36">
+<title>NH2-terminal sequence of calf fetuin.</title>
+<authorList>
+<person name="Alcaraz G."/>
+<person name="Marti J."/>
+<person name="Moinier D."/>
+<person name="Fougereau M."/>
+</authorList>
+<dbReference type="PubMed" id="6165360"/>
+<dbReference type="DOI" id="10.1016/0006-291X(81)91708-3"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 19-62</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1988" name="J. Biol. Chem." volume="263" first="111" last="117">
+<title>The covalent structure of individual N-linked glycopeptides from ovomucoid and asialofetuin.</title>
+<authorList>
+<person name="Yet M.G."/>
+<person name="Chin C.C.Q."/>
+<person name="Wold F."/>
+</authorList>
+<dbReference type="PubMed" id="2447075"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 72-103 AND 144-187</scope>
+<scope>GLYCOSYLATION AT ASN-99; ASN-156 AND ASN-176</scope>
+</reference>
+<reference key="6">
+<citation type="book" date="1996" name="Techniques in glycobiology" first="299" last="320" publisher="Marcel Dekker" city="New York">
+<title>Identifying sites of glycosylation in proteins.</title>
+<editorList>
+<person name="Townsend R.R."/>
+<person name="Hotchkiss A.T. Jr."/>
+</editorList>
+<authorList>
+<person name="Pisano A."/>
+<person name="Jardine D.R."/>
+<person name="Packer N.H."/>
+<person name="Farnsworth V."/>
+<person name="Carson W."/>
+<person name="Cartier P."/>
+<person name="Redmond J.W."/>
+<person name="Williams K.L."/>
+<person name="Gooley A.A."/>
+</authorList>
+</citation>
+<scope>GLYCOSYLATION AT SER-271; THR-280; SER-282 AND SER-341</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="J. Proteome Res." volume="3" first="556" last="566">
+<title>A new strategy for identification of N-glycosylated proteins and unambiguous assignment of their glycosylation sites using HILIC enrichment and partial deglycosylation.</title>
+<authorList>
+<person name="Hagglund P."/>
+<person name="Bunkenborg J."/>
+<person name="Elortza F."/>
+<person name="Jensen O.N."/>
+<person name="Roepstorff P."/>
+</authorList>
+<dbReference type="PubMed" id="15253437"/>
+<dbReference type="DOI" id="10.1021/pr034112b"/>
+</citation>
+<scope>GLYCOSYLATION AT ASN-99; ASN-156 AND ASN-176</scope>
+<scope>MASS SPECTROMETRY</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="Anal. Chem." volume="81" first="3933" last="3943">
+<title>Site-specific glycoprofiling of N-linked glycopeptides using MALDI-TOF MS: strong correlation between signal strength and glycoform quantities.</title>
+<authorList>
+<person name="Thaysen-Andersen M."/>
+<person name="Mysling S."/>
+<person name="Hojrup P."/>
+</authorList>
+<dbReference type="PubMed" id="19358553"/>
+<dbReference type="DOI" id="10.1021/ac900231w"/>
+</citation>
+<scope>GLYCOSYLATION AT ASN-99; ASN-156 AND ASN-176</scope>
+</reference>
+<comment type="function">
+<text>Promotes endocytosis, possesses opsonic properties and influences the mineral phase of bone. Suggested to have lymphocyte stimulating properties, lipid binding capability and to bind thyroid hormone.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text>Liver and bone.</text>
+</comment>
+<comment type="PTM">
+<text>Phosphorylated on serine residues.</text>
+</comment>
+<comment type="similarity">
+<text>Belongs to the fetuin family.</text>
+</comment>
+<comment type="similarity">
+<text>Contains 2 cystatin fetuin-A-type domains.</text>
+</comment>
+<dbReference type="EMBL" id="X16577">
+<property type="protein sequence ID" value="CAA34596.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC147948">
+<property type="protein sequence ID" value="AAI47949.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="A35714">
+<property type="entry name" value="A35714"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_776409.1">
+<property type="nucleotide sequence ID" value="NM_173984.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Bt.23250"/>
+<dbReference type="ProteinModelPortal" id="P12763"/>
+<dbReference type="MEROPS" id="I25.020"/>
+<dbReference type="UniCarbKB" id="P12763"/>
+<dbReference type="PaxDb" id="P12763"/>
+<dbReference type="PRIDE" id="P12763"/>
+<dbReference type="Ensembl" id="ENSBTAT00000000673">
+<property type="protein sequence ID" value="ENSBTAP00000000673"/>
+<property type="gene ID" value="ENSBTAG00000000522"/>
+</dbReference>
+<dbReference type="GeneID" id="280988"/>
+<dbReference type="KEGG" id="bta:280988"/>
+<dbReference type="CTD" id="197"/>
+<dbReference type="eggNOG" id="NOG44208"/>
+<dbReference type="GeneTree" id="ENSGT00530000063413"/>
+<dbReference type="HOGENOM" id="HOG000290189"/>
+<dbReference type="HOVERGEN" id="HBG051607"/>
+<dbReference type="InParanoid" id="P12763"/>
+<dbReference type="OMA" id="YGFCKAT"/>
+<dbReference type="OrthoDB" id="EOG71K63R"/>
+<dbReference type="TreeFam" id="TF333729"/>
+<dbReference type="NextBio" id="20805089"/>
+<dbReference type="PMAP-CutDB" id="P12763"/>
+<dbReference type="ArrayExpress" id="P12763"/>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004869">
+<property type="term" value="F:cysteine-type endopeptidase inhibitor activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006953">
+<property type="term" value="P:acute-phase response"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030502">
+<property type="term" value="P:negative regulation of bone mineralization"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010951">
+<property type="term" value="P:negative regulation of endopeptidase activity"/>
+<property type="evidence" value="IEA:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001503">
+<property type="term" value="P:ossification"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050766">
+<property type="term" value="P:positive regulation of phagocytosis"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050727">
+<property type="term" value="P:regulation of inflammatory response"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025760">
+<property type="entry name" value="Cystatin_Fetuin_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000010">
+<property type="entry name" value="Prot_inh_cystat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001363">
+<property type="entry name" value="Prot_inh_fetuin_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00031">
+<property type="entry name" value="Cystatin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00043">
+<property type="entry name" value="CY"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51529">
+<property type="entry name" value="CYSTATIN_FETUIN_A"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01254">
+<property type="entry name" value="FETUIN_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01255">
+<property type="entry name" value="FETUIN_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0495">Mineral balance</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="1 2">
+<location>
+<begin position="1"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="chain" description="Alpha-2-HS-glycoprotein" id="PRO_0000008885">
+<location>
+<begin position="19"/>
+<end position="359"/>
+</location>
+</feature>
+<feature type="domain" description="Cystatin fetuin-A-type 1">
+<location>
+<begin position="27"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="domain" description="Cystatin fetuin-A-type 2">
+<location>
+<begin position="144"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by trypsin" status="potential">
+<location>
+<begin position="143"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" status="by similarity">
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" status="by similarity">
+<location>
+<position position="320"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" status="by similarity">
+<location>
+<position position="323"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" status="by similarity">
+<location>
+<position position="325"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" id="CAR_000061" evidence="3 4 5">
+<location>
+<position position="99"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" id="CAR_000062" evidence="3 4 5">
+<location>
+<position position="156"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" id="CAR_000063" evidence="3 4 5">
+<location>
+<position position="176"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GalNAc...)" evidence="6">
+<location>
+<position position="271"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GalNAc...)" evidence="6">
+<location>
+<position position="280"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GalNAc...)" evidence="6">
+<location>
+<position position="282"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GalNAc...); partial" evidence="6">
+<location>
+<position position="341"/>
+</location>
+</feature>
+<feature type="disulfide bond" status="by similarity">
+<location>
+<begin position="32"/>
+<end position="350"/>
+</location>
+</feature>
+<feature type="disulfide bond" status="by similarity">
+<location>
+<begin position="89"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="disulfide bond" status="by similarity">
+<location>
+<begin position="114"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="disulfide bond" status="by similarity">
+<location>
+<begin position="146"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="disulfide bond" status="by similarity">
+<location>
+<begin position="208"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="disulfide bond" status="by similarity">
+<location>
+<begin position="230"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AA sequence." ref="4">
+<original>KH</original>
+<variation>VK</variation>
+<location>
+<begin position="57"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AA sequence." ref="3">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AA sequence." ref="3">
+<original>T</original>
+<variation>H</variation>
+<location>
+<position position="106"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AA sequence." ref="3">
+<original>IHVLKQ</original>
+<variation>FSVVKL</variation>
+<location>
+<begin position="116"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AA sequence." ref="5">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="186"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AA sequence." ref="3">
+<original>V</original>
+<variation>P</variation>
+<location>
+<position position="195"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000006">
+<source>
+<dbReference type="PubMed" id="2436943"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000006">
+<source>
+<dbReference type="PubMed" id="6165360"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000006">
+<source>
+<dbReference type="PubMed" id="2447075"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000006">
+<source>
+<dbReference type="PubMed" id="15253437"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000006">
+<source>
+<dbReference type="PubMed" id="19358553"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000006">
+<source ref="6"/>
+</evidence>
+<sequence length="359" mass="38419" checksum="ED8F685C44CCE49B" modified="1990-08-01" version="2" precursor="true">
+MKSFVLLFCLAQLWGCHSIPLDPVAGYKEPACDDPDTEQAALAAVDYINKHLPRGYKHTL
+NQIDSVKVWPRRPTGEVYDIEIDTLETTCHVLDPTPLANCSVRQQTQHAVEGDCDIHVLK
+QDGQFSVLFTKCDSSPDSAEDVRKLCPDCPLLAPLNDSRVVHAVEVALATFNAESNGSYL
+QLVEISRAQFVPLPVSVSVEFAVAATDCIAKEVVDPTKCNLLAEKQYGFCKGSVIQKALG
+GEDVRVTCTLFQTQPVIPQPQPDGAEAEAPSAVPDAAGPTPSAAGPPVASVVVGPSVVAV
+PLPLHRAHYDLRHTFSGVASVESSSGEAFHVGKTPIVGQPSIPGGPVRLCPGRIRYFKI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

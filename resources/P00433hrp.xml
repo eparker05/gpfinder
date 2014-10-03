@@ -1,0 +1,779 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2014-02-19" version="112">
+<accession>P00433</accession>
+<name>PER1A_ARMRU</name>
+<protein>
+<recommendedName>
+<fullName>Peroxidase C1A</fullName>
+<ecNumber>1.11.1.7</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">PRXC1A</name>
+<name type="synonym">HPRC1</name>
+</gene>
+<organism>
+<name type="scientific">Armoracia rusticana</name>
+<name type="common">Horseradish</name>
+<name type="synonym">Armoracia laphatifolia</name>
+<dbReference type="NCBI Taxonomy" id="3704"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Cardamineae</taxon>
+<taxon>Armoracia</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1988" name="Eur. J. Biochem." volume="173" first="681" last="687">
+<title>Structure of the horseradish peroxidase isozyme C genes.</title>
+<authorList>
+<person name="Fujiyama K."/>
+<person name="Takemura H."/>
+<person name="Shibayama S."/>
+<person name="Kobayashi K."/>
+<person name="Choi J.K."/>
+<person name="Shinmyo A."/>
+<person name="Takano M."/>
+<person name="Yamada Y."/>
+<person name="Okada H."/>
+</authorList>
+<dbReference type="PubMed" id="3371352"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1988.tb14052.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1976" name="FEBS Lett." volume="72" first="19" last="23">
+<title>Covalent structure of the glycoprotein horseradish peroxidase (EC 1.11.1.7).</title>
+<authorList>
+<person name="Welinder K.G."/>
+</authorList>
+<dbReference type="PubMed" id="1001465"/>
+<dbReference type="DOI" id="10.1016/0014-5793(76)80804-6"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 31-338</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="Nat. Struct. Biol." volume="4" first="1032" last="1038">
+<title>Crystal structure of horseradish peroxidase C at 2.15-A resolution.</title>
+<authorList>
+<person name="Gajhede M."/>
+<person name="Schuller D.J."/>
+<person name="Henriksen A."/>
+<person name="Smith A.T."/>
+<person name="Poulos T.L."/>
+</authorList>
+<dbReference type="PubMed" id="9406554"/>
+<dbReference type="DOI" id="10.1038/nsb1297-1032"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1998" name="Biochemistry" volume="37" first="8054" last="8060">
+<title>Structural interactions between horseradish peroxidase C and the substrate benzhydroxamic acid determined by X-ray crystallography.</title>
+<authorList>
+<person name="Henriksen A."/>
+<person name="Schuller D.J."/>
+<person name="Meno K."/>
+<person name="Welinder K.G."/>
+<person name="Smith A.T."/>
+<person name="Gajhede M."/>
+</authorList>
+<dbReference type="PubMed" id="9609699"/>
+<dbReference type="DOI" id="10.1021/bi980234j"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS)</scope>
+</reference>
+<reference key="5">
+<citation type="submission" date="1998-12" db="PDB data bank">
+<authorList>
+<person name="Meno K."/>
+<person name="White C.G."/>
+<person name="Smith A.T."/>
+<person name="Gajhede M."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text>Removal of H(2)O(2), oxidation of toxic reductants, biosynthesis and degradation of lignin, suberization, auxin catabolism, response to environmental stresses such as wounding, pathogen attack and oxidative stress. These functions might be dependent on each isozyme/isoform in each plant tissue.</text>
+</comment>
+<comment type="catalytic activity">
+<text>2 phenolic donor + H(2)O(2) = 2 phenoxyl radical of the donor + 2 H(2)O.</text>
+</comment>
+<comment type="cofactor">
+<text>Binds 2 calcium ions per subunit.</text>
+</comment>
+<comment type="cofactor">
+<text>Binds 1 heme B (iron-protoporphyrin IX) group per subunit.</text>
+</comment>
+<comment type="subunit">
+<text>Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location status="probable">Secreted</location>
+</subcellularLocation>
+<subcellularLocation>
+<location status="probable">Vacuole</location>
+</subcellularLocation>
+<text>Carboxy-terminal extension appears to target the protein to vacuoles.</text>
+</comment>
+<comment type="similarity">
+<text>Belongs to the peroxidase family. Classical plant (class III) peroxidase subfamily.</text>
+</comment>
+<dbReference type="EC" id="1.11.1.7"/>
+<dbReference type="EMBL" id="M37156">
+<property type="protein sequence ID" value="AAA33377.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S00625">
+<property type="entry name" value="OPRHC"/>
+</dbReference>
+<dbReference type="PDB" id="1ATJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B/C/D/E/F=31-336"/>
+</dbReference>
+<dbReference type="PDB" id="1GW2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1GWO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.07"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1GWT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1GWU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.31"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1GX2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H55">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.61"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H57">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H58">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.62"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.57"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1H5M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.57"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1HCH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.57"/>
+<property type="chains" value="A=31-336"/>
+</dbReference>
+<dbReference type="PDB" id="1KZM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="1W4W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A=31-353"/>
+</dbReference>
+<dbReference type="PDB" id="1W4Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=31-353"/>
+</dbReference>
+<dbReference type="PDB" id="2ATJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=31-337"/>
+</dbReference>
+<dbReference type="PDB" id="2YLJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.69"/>
+<property type="chains" value="A=31-336"/>
+</dbReference>
+<dbReference type="PDB" id="3ATJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="4ATJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="6ATJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDB" id="7ATJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.47"/>
+<property type="chains" value="A=31-338"/>
+</dbReference>
+<dbReference type="PDBsum" id="1ATJ"/>
+<dbReference type="PDBsum" id="1GW2"/>
+<dbReference type="PDBsum" id="1GWO"/>
+<dbReference type="PDBsum" id="1GWT"/>
+<dbReference type="PDBsum" id="1GWU"/>
+<dbReference type="PDBsum" id="1GX2"/>
+<dbReference type="PDBsum" id="1H55"/>
+<dbReference type="PDBsum" id="1H57"/>
+<dbReference type="PDBsum" id="1H58"/>
+<dbReference type="PDBsum" id="1H5A"/>
+<dbReference type="PDBsum" id="1H5C"/>
+<dbReference type="PDBsum" id="1H5D"/>
+<dbReference type="PDBsum" id="1H5E"/>
+<dbReference type="PDBsum" id="1H5F"/>
+<dbReference type="PDBsum" id="1H5G"/>
+<dbReference type="PDBsum" id="1H5H"/>
+<dbReference type="PDBsum" id="1H5I"/>
+<dbReference type="PDBsum" id="1H5J"/>
+<dbReference type="PDBsum" id="1H5K"/>
+<dbReference type="PDBsum" id="1H5L"/>
+<dbReference type="PDBsum" id="1H5M"/>
+<dbReference type="PDBsum" id="1HCH"/>
+<dbReference type="PDBsum" id="1KZM"/>
+<dbReference type="PDBsum" id="1W4W"/>
+<dbReference type="PDBsum" id="1W4Y"/>
+<dbReference type="PDBsum" id="2ATJ"/>
+<dbReference type="PDBsum" id="2YLJ"/>
+<dbReference type="PDBsum" id="3ATJ"/>
+<dbReference type="PDBsum" id="4ATJ"/>
+<dbReference type="PDBsum" id="6ATJ"/>
+<dbReference type="PDBsum" id="7ATJ"/>
+<dbReference type="ProteinModelPortal" id="P00433"/>
+<dbReference type="SMR" id="P00433">
+<property type="residue range" value="31-337"/>
+</dbReference>
+<dbReference type="PeroxiBase" id="90">
+<property type="entry name" value="AruPrx01-1"/>
+</dbReference>
+<dbReference type="UniCarbKB" id="P00433"/>
+<dbReference type="SABIO-RK" id="P00433"/>
+<dbReference type="EvolutionaryTrace" id="P00433"/>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="IEA:UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005773">
+<property type="term" value="C:vacuole"/>
+<property type="evidence" value="IEA:UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0020037">
+<property type="term" value="F:heme binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004601">
+<property type="term" value="F:peroxidase activity"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042744">
+<property type="term" value="P:hydrogen peroxide catabolic process"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010255">
+<property type="entry name" value="Haem_peroxidase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002016">
+<property type="entry name" value="Haem_peroxidase_pln/fun/bac"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000823">
+<property type="entry name" value="Peroxidase_pln"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019794">
+<property type="entry name" value="Peroxidases_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019793">
+<property type="entry name" value="Peroxidases_heam-ligand_BS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00141">
+<property type="entry name" value="peroxidase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00458">
+<property type="entry name" value="PEROXIDASE"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00461">
+<property type="entry name" value="PLPEROXIDASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48113">
+<property type="entry name" value="SSF48113"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00435">
+<property type="entry name" value="PEROXIDASE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00436">
+<property type="entry name" value="PEROXIDASE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50873">
+<property type="entry name" value="PEROXIDASE_4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0349">Heme</keyword>
+<keyword id="KW-0376">Hydrogen peroxide</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0575">Peroxidase</keyword>
+<keyword id="KW-0873">Pyrrolidone carboxylic acid</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0926">Vacuole</keyword>
+<feature type="signal peptide" evidence="1">
+<location>
+<begin position="1"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="chain" description="Peroxidase C1A" id="PRO_0000023739" evidence="1">
+<location>
+<begin position="31"/>
+<end position="338"/>
+</location>
+</feature>
+<feature type="propeptide" id="PRO_0000023740">
+<location>
+<begin position="339"/>
+<end position="353"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor">
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1; via carbonyl oxygen">
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1; via carbonyl oxygen">
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1">
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1">
+<location>
+<position position="82"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1">
+<location>
+<position position="94"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron (heme axial ligand)">
+<location>
+<position position="200"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2">
+<location>
+<position position="201"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2">
+<location>
+<position position="252"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2">
+<location>
+<position position="255"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2">
+<location>
+<position position="260"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate; via carbonyl oxygen">
+<location>
+<position position="169"/>
+</location>
+</feature>
+<feature type="site" description="Transition state stabilizer">
+<location>
+<position position="68"/>
+</location>
+</feature>
+<feature type="modified residue" description="Pyrrolidone carboxylic acid" evidence="1">
+<location>
+<position position="31"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="87"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)">
+<location>
+<position position="188"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)">
+<location>
+<position position="216"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)">
+<location>
+<position position="228"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)">
+<location>
+<position position="244"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)">
+<location>
+<position position="285"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)">
+<location>
+<position position="298"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="41"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="74"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="127"/>
+<end position="331"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="207"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="34"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="44"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="62"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="75"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="78"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="82"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="89"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="94"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="98"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="107"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="122"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="127"/>
+<end position="141"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="161"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="175"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="190"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="198"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="204"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="207"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="211"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="217"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="220"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="229"/>
+<end position="238"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="248"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="253"/>
+<end position="255"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="262"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="275"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="284"/>
+<end position="288"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="289"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="300"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="324"/>
+<end position="326"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000006">
+<source>
+<dbReference type="PubMed" id="1001465"/>
+</source>
+</evidence>
+<sequence length="353" mass="38825" checksum="AC916C03C4A24D27" modified="1990-04-01" version="2" precursor="true">
+MHFSSSSTLFTCITLIPLVCLILHASLSDAQLTPTFYDNSCPNVSNIVRDTIVNELRSDP
+RIAASILRLHFHDCFVNGCDASILLDNTTSFRTEKDAFGNANSARGFPVIDRMKAAVESA
+CPRTVSCADLLTIAAQQSVTLAGGPSWRVPLGRRDSLQAFLDLANANLPAPFFTLPQLKD
+SFRNVGLNRSSDLVALSGGHTFGKNQCRFIMDRLYNFSNTGLPDPTLNTTYLQTLRGLCP
+LNGNLSALVDFDLRTPTIFDNKYYVNLEEQKGLIQSDQELFSSPNATDTIPLVRSFANST
+QTFFNAFVEAMDRMGNITPLTGTQGQIRLNCRVVNSNSLLHDMVEVVDFVSSM
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

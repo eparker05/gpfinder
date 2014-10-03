@@ -1,0 +1,52 @@
+Acronym,Abbreviation,Name,Monoisotopic Mass,Chemical Formula,Mass Reference
+G,Gly,Glycine,57.02146372,C2H3ON,http://www.chemcalc.org
+A,Ala,Alanine,71.03711379,C3H5ON,http://www.chemcalc.org
+S,Ser,Serine,87.03202841,C3H5O2N,http://www.chemcalc.org
+P,Pro,Proline,97.05276385,C5H7ON,http://www.chemcalc.org
+V,Val,Valine,99.06841392,C5H9ON,http://www.chemcalc.org
+T,Thr,Threonine,101.0476785,C4H7O2N,http://www.chemcalc.org
+C,Cys,Cysteine,103.0091845,C3H5ONS,http://www.chemcalc.org
+I,Ile,Isoleucine,113.084064,C6H11ON,http://www.chemcalc.org
+L,Leu,Leucine,113.084064,C6H11ON,http://www.chemcalc.org
+N,Asn,Asparagine,114.0429274,C4H6O2N2,http://www.chemcalc.org
+D,Asp,Aspartic acid,115.026943,C4H5O3N,http://www.chemcalc.org
+Q,Gln,Glutamine,128.0585775,C5H8O2N2,http://www.chemcalc.org
+K,Lys,Lysine,128.094963,C6H12ON2,http://www.chemcalc.org
+E,Glu,Glutamic acid,129.0425931,C5H7O3N,http://www.chemcalc.org
+M,Met,Methionine,131.0404846,C5H9ONS,http://www.chemcalc.org
+H,His,Histidine,137.0589119,C6H7ON3,http://www.chemcalc.org
+F,Phe,Phenylalanine,147.0684139,C9H9ON,http://www.chemcalc.org
+R,Arg,Arginine,156.101111,C6H12ON4,http://www.chemcalc.org
+Y,Tyr,Tyrosine,163.0633285,C9H9O2N,http://www.chemcalc.org
+U,Sec,Selenocysteine,168.9642003,C3H7O2NSe,http://www.chemcalc.org
+W,Trp,Tryptophan,186.079313,C11H10ON2,http://www.chemcalc.org
+O,Pyl,Pyrrolysine,255.1582916,C12H21O3N3,http://www.chemcalc.org
+G^phos'ed,Gly^phos'ed,Phosphoglycine,136.9877941,C2H4O4NP,http://www.chemcalc.org
+A^phos'ed,Ala^phos'ed,Phosphoalanine,151.0034442,C3H6O4NP,http://www.chemcalc.org
+S^phos'ed,Ser^phos'ed,Phosphoserine,166.9983588,C3H6O5NP,http://www.chemcalc.org
+P^phos'ed,Pro^phos'ed,Phosphoproline,177.0190943,C5H8O4NP,http://www.chemcalc.org
+V^phos'ed,Val^phos'ed,Phosphovaline,179.0347443,C5H10O4NP,http://www.chemcalc.org
+T^phos'ed,Thr^phos'ed,Phosphothreonine,181.0140089,C4H8O5NP,http://www.chemcalc.org
+C^phos'ed,Cys^phos'ed,Phosphocysteine,182.9755149,C3H6O4NSP,http://www.chemcalc.org
+I^phos'ed,Ile^phos'ed,Phosphoisoleucine,193.0503944,C6H12O4NP,http://www.chemcalc.org
+L^phos'ed,Leu^phos'ed,Phospholeucine,193.0503944,C6H12O4NP,http://www.chemcalc.org
+N^phos'ed,Asn^phos'ed,Phosphoasparagine,194.0092579,C4H7O5N2P,http://www.chemcalc.org
+D^phos'ed,Asp^phos'ed,Phosphoaspartic acid,194.9932734,C4H6O6NP,http://www.chemcalc.org
+Q^phos'ed,Gln^phos'ed,Phosphoglutamine,208.0249079,C5H9O5N2P,http://www.chemcalc.org
+K^phos'ed,Lys^phos'ed,Phospholysine,208.0612934,C6H13O4N2P ,http://www.chemcalc.org
+E^phos'ed,Glu^phos'ed,Phosphoglutamic acid,209.0089235,C5H8O6NP,http://www.chemcalc.org
+M^phos'ed,Met^phos'ed,Phosphomethionine,211.006815,C5H10O4NSP,http://www.chemcalc.org
+H^phos'ed,His^phos'ed,Phosphohistidine,217.0252423,C6H8O4N3P,http://www.chemcalc.org
+F^phos'ed,Phe^phos'ed,Phosphoprenylalanine,227.0347443,C9H10O4NP,http://www.chemcalc.org
+R^phos'ed,Arg^phos'ed,Phosphoarginine,236.0674414,C6H13O4N4P,http://www.chemcalc.org
+Y^phos'ed,Tyr^phos'ed,Phosphotyrosine,243.0296589,C9H10O5NP,http://www.chemcalc.org
+U^phos'ed,Sec^phos'ed,Phosphoselenocysteine,248.9305307,C3H8O5NSeP,http://www.chemcalc.org
+W^phos'ed,Trp^phos'ed,Phosphotryptophan,266.0456434,C11H11O4N2P,http://www.chemcalc.org
+O^phos'ed,Pyl^phos'ed,Phosphopyrrolysine,335.124622,C12H22O6N3P,http://www.chemcalc.org
+C^carb'ed,Cys^carb'ed,Cysteine Carbamidomethylated,160.03065,C5H8O2N2S,http://www.chemcalc.org
+Q^deam'ed,Gln^deam'ed,Glutamine Deamidated,129.0425931,C5H7O3N,http://www.chemcalc.org
+Q^phos'ed^deam'ed,Gln^phos'ed^deam'ed,Phosphoglutamine Deamidated,209.0089235,C5H8O6NP,http://www.chemcalc.org
+Q^deam'ed^phos'ed,Gln^phos'ed^deam'ed,Phosphoglutamine Deamidated,209.0089235,C5H8O6NP,http://www.chemcalc.org
+M^oxid'ed,Met^oxid'ed,Methionine Oxidated,147.0353992,C5H9O2NS,http://www.chemcalc.org
+M^phos'ed^oxid'ed,Met^phos'ed^oxid'ed,Phosphomethionine Oxidated,227.0017296,C5H10O5NSP,http://www.chemcalc.org
+M^oxid'ed^phos'ed,Met^phos'ed^oxid'ed,Phosphomethionine Oxidated,227.0017296,C5H10O5NSP,http://www.chemcalc.org

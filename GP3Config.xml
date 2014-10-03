@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gp3config date="some date" username="some username">
+  <files folder="resources">
+	<proteinfile filename="P12763fet.xml" />  <!--  P00433hrp   -->
+	  <aamassfile filename="amino_acid_monoisotopic_masses.csv" />
+	  <saccharidefile filename="glycan_component_monoisotopic_masses.csv" />
+	  <glycanlibraryfile filename="ScottsLibrary.csv" />    <!--ScottsLibrary.csv TingsLibraryGenericFormat.csv fetuinLibrary.csv  perox_genericLibrary fetuinLibraryOlinked_long.csv-->
+      <!-- <massspecfile filename="Peroxidase_elastase-short_test.mgf" format="mgf" /> formats = "mgf, cef, mzData" -->
+      <massspecfile filename="fetuin_dualM-highZslopes_interlaced.mgf" format="mgf" /> <!-- formats = "mgf, cef, mzData" -->
+  </files>
+  <fragmentioncharge maxpossiblefragmentioncharge="3" />
+  <fragmentnoisefilter value="" noisecutoffthreshold="4" />
+  <diagnosticfragmentfilter value="True" fractionofmax="1" numberrequired="2" />
+  <massspec>
+    <!-- half window mass error -->
+    <toleranceAbsolutePPM value="20" />
+  </massspec>
+  <!-- please only use whole numbers not associated with common neutral losses -->
+  <decoy checkbox="yes" value="11" />
+  <protein>
+    <digestion>
+      <type nonspecific="" trypsin="true" lysc="" gluc="" argc="" pepsin="" elastase="" chymotrypsin=""/>
+      <missedcleavages max="1" />
+    </digestion>
+    <sequence uniprot="True" sequence="" autodetectnsites="" sitelist=""/>
+    <modifiedresidue>
+      <phosphorylation type="S" checkbox="" />
+      <phosphorylation type="T" checkbox="" />
+      <phosphorylation type="D" checkbox="" />
+      <phosphorylation type="H" checkbox="" />
+      <phosphorylation type="Y" checkbox="" />
+      <carbamidomethylation type="C" checkbox="True" applytoall="True" />
+      <deamidation type="Q" checkbox="" />
+      <oxidation type="M" checkbox="" />
+    </modifiedresidue>
+  </protein>
+  <glycosylationtype searchfornlinked="" searchforolinked="True" />
+  <glycan>
+    <!-- "library" or "combinatorial" -->
+    <method value="combinatorial" />
+    <combinatorial>
+        <Hex min="1" max="6" />
+        <HexNAc min="1" max="4" />
+        <DeoxyHex min="0" max="2" />
+        <Neu5Ac min="0" max="2" />
+        <Neu5Gc min="0" max="0" />
+        <Pentose min="0" max="1" />
+        <KDN min="0" max="0" />
+        <HexA min="0" max="0" />
+    </combinatorial>
+  </glycan>
+  <scoringparameters>
+    <ms>
+      <!-- by saying toleranceAbsolutePPM being 40,
+           we mean that the actual value needs to be the theoretical value +/- 40ppm of the theoretical value
+           in order for the fragment mass match to hold -->
+      <!-- by saying toleranceAbsoluteMass being 0.001,
+           we mean that the actual value needs to be the theoretical value +/- 0.001 of the theoretical value
+           in order for the fragment mass match to hold -->
+      <!-- As long as one of the above two holds, this is considered a fragment mass match -->
+      <toleranceAbsolutePPM value="55" />
+      <toleranceAbsoluteMass value="0.001" />
+    </ms>
+  </scoringparameters>
+  <printingoptions printmatchdetails="" />
+  <testoptions test="True" />
+</gp3config>

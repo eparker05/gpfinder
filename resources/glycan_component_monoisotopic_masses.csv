@@ -1,0 +1,9 @@
+Glycan Component Name,Glycan Component Mass,Chemical Formula,Mass References
+Hex,162.052823432,C6H10O5,http://en.wikipedia.org/wiki/N-Acetylglucosamine http://www.chemcalc.org
+HexNAc,203.0793725337,C8H13NO5,http://www.chemcalc.org
+DeoxyHex,146.0579088099,C6H10O4,http://www.chemcalc.org
+Neu5Ac,291.0954165286,C11H17NO8,http://en.wikipedia.org/wiki/N-Acetylneuraminic_acid http://www.chemcalc.org
+Neu5Gc,307.0903311507,C11H17NO9,http://en.wikipedia.org/wiki/N-Glycolylneuraminic_acid http://www.chemcalc.org
+Pentose,132.0422587456,C5H8O4,http://www.chemcalc.org
+KDN,250.0688674269,C9H14O8,http://en.wikipedia.org/wiki/Sialic_acid Manual calculation http://www.chemcalc.org
+HexA,176.0320879898,C6H8O6,http://en.wikipedia.org/wiki/Ascorbic_acid Http://www.chemcalc.org
