@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gp3config date="some date" username="some username">
   <files folder="resources">
-	<proteinfile filename="P12763fet.xml" />  <!--  P00433hrp   -->
-	  <aamassfile filename="amino_acid_monoisotopic_masses.csv" />
-	  <saccharidefile filename="glycan_component_monoisotopic_masses.csv" />
-	  <glycanlibraryfile filename="ScottsLibrary.csv" />    <!--ScottsLibrary.csv TingsLibraryGenericFormat.csv fetuinLibrary.csv  perox_genericLibrary fetuinLibraryOlinked_long.csv-->
-      <!-- <massspecfile filename="Peroxidase_elastase-short_test.mgf" format="mgf" /> formats = "mgf, cef, mzData" -->
-      <massspecfile filename="fetuin_dualM-highZslopes_interlaced.mgf" format="mgf" /> <!-- formats = "mgf, cef, mzData" -->
+    <proteinfile filename="P12763fet.xml" />  <!--  P00433hrp   -->
+      <aamassfile filename="amino_acid_monoisotopic_masses.csv" />
+      <saccharidefile filename="glycan_component_monoisotopic_masses.csv" />
+      <!--Included: ScottsLibrary HumanLibraryGenericFormat -->
+      <glycanlibraryfile filename="ScottsLibrary.csv" /> 
+      <!-- allowed in format tag: mgf, cef, and mzData -->
+      <massspecfile filename="fetuin_dualM-highZslopes_interlaced.mgf" format="mgf" /> 
   </files>
   <fragmentioncharge maxpossiblefragmentioncharge="3" />
   <fragmentnoisefilter value="" noisecutoffthreshold="4" />
   <diagnosticfragmentfilter value="True" fractionofmax="1" numberrequired="2" />
   <massspec>
-    <!-- half window mass error -->
+    <!-- half window mass error (ie: 20 = +-20) -->
     <toleranceAbsolutePPM value="20" />
   </massspec>
-  <!-- please only use whole numbers not associated with common neutral losses -->
+  <!-- Use whole numbers not associated with common neutral losses -->
   <decoy checkbox="yes" value="11" />
   <protein>
     <digestion>
