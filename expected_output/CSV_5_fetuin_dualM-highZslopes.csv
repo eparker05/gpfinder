@@ -1,0 +1,78 @@
+Sequence source:,P12763fet,,,,,,,,,,,,,,,,,,,,,,,
+Protein name(s):,Alpha-2-HS-glycoprotein,,,,,,,,,,,,,,,,,,,,,,,
+Glycan source:,genericlibrary,,,,,,,,,,,,,,,,,,,,,,,
+Digestion types:,trypsin,,,,,,,,,,,,,,,,,,,,,,,
+Max miss cleavages:,1,,,,,,,,,,,,,,,,,,,,,,,
+Matching tolerance:,20,,,,,,,,,,,,,,,,,,,,,,,
+Fragment tolerance:,55,,,,,,,,,,,,,,,,,,,,,,,
+Total Matches:,380,,,,,,,,,,,,,,,,,,,,,,,
+Decoy Matches:,162,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+pre Rescore passes,62,,,,,,,,,,,,,,,,,,,,,,,
+post Rescore passes,62,,,,,,,,,,,,,,,,,,,,,,,
+first threshold,46,,,,,,,,,,,,,,,,,,,,,,,
+score threshold,46,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+(3rd ordering),,,,,,,,,(1st ordering),(2nd ordering),,,,,,,,,,,,,,
+Feature No.,Mass Match No.,Protein,Peptide Theoretical Mass,Glycan Theoretical Mass,GP Theoretical Mass,isotopeError,GP Actual Mass,ppm Error,GP Compound MZ,Glycosylation Site Position,Mass Match Score,Highest Score - 2nd Highest Score in Feature,Number of Score Occurrences,RT,Nonstandard Glycan Components,Peptide Matches (Score 5), Backbone Matches,Peptide Sequence,Hex,HexNAc,DeoxyHex,Sialic Acid (Neu5Ac and Neu5Gc),is Decoy?,Mass Match Intensity
+296,49,Alpha-2-HS-glycoprotein,1867.928442,2222.783005,4072.700882,0,4072.699694,-0.29 ppm,1019.1822,156,120.3565497,Only 1 match,1,24.411,not any,12,12,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+349,100,Alpha-2-HS-glycoprotein,1739.833479,2222.783005,3944.605919,0,3944.603294,-0.67 ppm,987.1581,156,103.7387719,75,1,25.761,not any,10,11,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+350,102,Alpha-2-HS-glycoprotein,1739.833479,2222.783005,3944.605919,0,3944.603294,-0.67 ppm,987.1581,156,98.65353801,81,1,25.797,not any,9,10,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+274,34,Alpha-2-HS-glycoprotein,1867.928442,2222.783005,4072.700882,0,4072.699694,-0.29 ppm,1019.1822,156,88.73745614,Only 1 match,1,23.819,not any,11,5,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+268,28,Alpha-2-HS-glycoprotein,1867.928442,1931.687589,3781.605466,0,3781.616494,2.92 ppm,946.4114,156,85.67754386,Only 1 match,1,23.634,not any,7,10,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,1,0,None
+317,70,Alpha-2-HS-glycoprotein,1867.928442,2879.010618,4728.928495,0,4728.923694,-1.02 ppm,1183.2382,156,85.67754386,67,1,25.004,not any,8,9,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+332,87,Alpha-2-HS-glycoprotein,1739.833479,2733.97311,4455.796024,0,4455.767694,-6.36 ppm,1114.9492,156,85.43192982,Only 1 match,1,25.271,not any,7,6,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,1,2,0,None
+330,84,Alpha-2-HS-glycoprotein,1867.928442,2587.915201,4437.833078,0,4437.836094,0.68 ppm,1110.4663,156,84.6575731,Only 1 match,1,25.248,not any,9,7,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,2,0,None
+384,125,Alpha-2-HS-glycoprotein,1739.833479,2879.010618,4600.833532,0,4600.882494,10.64 ppm,1151.2279,156,83.39783626,47,1,26.757,not any,7,10,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+275,35,Alpha-2-HS-glycoprotein,1867.928442,2587.915201,4437.833078,0,4437.836094,0.68 ppm,1110.4663,156,81.59766082,Only 1 match,1,23.833,not any,10,4,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,2,0,None
+331,85,Alpha-2-HS-glycoprotein,1739.833479,2222.783005,3944.605919,0,3944.603294,-0.67 ppm,987.1581,156,81.36374269,60,1,25.259,not any,8,7,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+264,26,Alpha-2-HS-glycoprotein,1867.928442,2222.783005,4072.700882,-1,4072.718344,4.29 ppm,1019.186863,156,80.57769006,Only 1 match,1,23.503,not any,10,4,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+360,109,Alpha-2-HS-glycoprotein,1739.833479,2879.010618,4600.833532,0,4600.882494,10.64 ppm,1151.2279,156,80.34669591,41,1,26.197,not any,8,7,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+265,27,Alpha-2-HS-glycoprotein,1867.928442,1931.687589,3781.605466,-2,3781.598594,-1.82 ppm,946.406925,156,79.5577193,Only 1 match,1,23.539,not any,8,7,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,1,0,None
+297,51,Alpha-2-HS-glycoprotein,1867.928442,2879.010618,4728.928495,0,4728.923694,-1.02 ppm,1183.2382,156,79.5577193,59,1,24.44,not any,8,7,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+303,57,Alpha-2-HS-glycoprotein,1739.833479,2077.745497,3799.568411,0,3799.584494,4.23 ppm,950.9034,156,77.29555556,Only 1 match,1,24.546,not any,7,6,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,1,1,0,None
+277,36,Alpha-2-HS-glycoprotein,1867.928442,2733.97311,4583.890987,0,4583.864094,-5.87 ppm,1146.9733,156,76.49780702,Only 1 match,1,23.883,not any,7,5,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,1,2,0,None
+298,52,Alpha-2-HS-glycoprotein,1867.928442,2222.783005,4072.700882,0,4072.693618,-1.78 ppm,815.546,156,76.49780702,Only 1 match,1,24.477,not any,7,8,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+328,81,Alpha-2-HS-glycoprotein,1739.833479,2587.915201,4309.738115,0,4309.741294,0.74 ppm,1078.4426,156,75.26146199,68,1,25.199,not any,8,5,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,2,0,None
+335,89,Alpha-2-HS-glycoprotein,1867.928442,2879.010618,4728.928495,0,4728.894118,-7.27 ppm,946.7861,156,75.47783626,47,1,25.371,not any,6,9,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+283,39,Alpha-2-HS-glycoprotein,1867.928442,2222.783005,4072.700882,-2,4072.675918,-6.13 ppm,815.54246,156,72.41792398,Only 1 match,1,24.09,not any,9,4,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+396,134,Alpha-2-HS-glycoprotein,1739.833479,2879.010618,4600.833532,0,4600.746894,-18.83 ppm,1151.194,156,71.19327485,Only 1 match,1,27.275,not any,8,4,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+273,33,Alpha-2-HS-glycoprotein,1867.928442,2733.97311,4583.890987,-2,4583.868594,-4.89 ppm,1146.974425,156,69.3580117,Only 1 match,1,23.808,not any,6,4,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,1,2,0,None
+289,45,Alpha-2-HS-glycoprotein,1867.928442,2733.97311,4583.890987,-2,4583.838418,-11.47 ppm,917.77496,156,69.3580117,Only 1 match,1,24.246,not any,6,5,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,1,2,0,None
+293,47,Alpha-2-HS-glycoprotein,1867.928442,1931.687589,3781.605466,0,3781.616494,2.92 ppm,946.4114,156,69.3580117,Only 1 match,1,24.34,not any,6,8,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,1,0,None
+401,139,Alpha-2-HS-glycoprotein,1739.833479,2879.010618,4600.833532,0,4600.882494,10.64 ppm,1151.2279,156,69.15918129,42,1,27.391,not any,6,7,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+286,43,Alpha-2-HS-glycoprotein,1867.928442,2587.915201,4437.833078,-2,4437.812594,-4.62 ppm,1110.460425,156,68.33804094,Only 1 match,1,24.146,not any,7,6,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,2,0,None
+287,44,Alpha-2-HS-glycoprotein,1867.928442,2587.915201,4437.833078,0,4437.833118,0.01 ppm,888.5739,156,68.33804094,Only 1 match,1,24.22,not any,5,8,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,2,0,None
+329,83,Alpha-2-HS-glycoprotein,1867.928442,2222.783005,4072.700882,0,4072.699694,-0.29 ppm,1019.1822,156,68.33804094,Only 1 match,1,25.213,not any,7,6,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+342,94,Alpha-2-HS-glycoprotein,1739.833479,1931.687589,3653.510503,0,3653.514894,1.2 ppm,914.386,156,68.1421345,Only 1 match,1,25.531,not any,7,6,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,1,0,None
+356,106,Alpha-2-HS-glycoprotein,1739.833479,2879.010618,4600.833532,0,4600.882494,10.64 ppm,1151.2279,156,68.1421345,41,1,26.067,not any,7,5,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+323,79,Alpha-2-HS-glycoprotein,1867.928442,2879.010618,4728.928495,0,4728.934341,1.24 ppm,789.163,156,67.31807018,47,1,25.12,not any,5,9,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+314,65,Alpha-2-HS-glycoprotein,1867.928442,2587.915201,4437.833078,-2,4437.812594,-4.62 ppm,1110.460425,156,66.29809942,Only 1 match,1,24.948,not any,7,5,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,2,0,None
+321,75,Alpha-2-HS-glycoprotein,1739.833479,2733.97311,4455.796024,-2,4455.782594,-3.01 ppm,1114.952925,156,66.10804094,26,1,25.082,not any,5,6,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,1,2,0,None
+305,58,Alpha-2-HS-glycoprotein,1739.833479,2077.745497,3799.568411,-2,3799.551794,-4.37 ppm,950.895225,156,64.07394737,Only 1 match,1,24.608,not any,5,5,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,1,1,0,None
+316,68,Alpha-2-HS-glycoprotein,1867.928442,2879.010618,4728.928495,-3,4728.867891,-12.82 ppm,789.151925,156,64.25815789,55,1,24.973,not any,5,7,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+344,96,Alpha-2-HS-glycoprotein,1867.928442,2879.010618,4728.928495,0,4728.923694,-1.02 ppm,1183.2382,156,64.25815789,58,1,25.569,not any,5,7,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+279,37,Alpha-2-HS-glycoprotein,1867.928442,2222.783005,4072.700882,0,4072.693618,-1.78 ppm,815.546,156,63.23818713,Only 1 match,1,23.952,not any,8,2,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+340,92,Alpha-2-HS-glycoprotein,1739.833479,2222.783005,3944.605919,0,3944.588618,-4.39 ppm,789.925,156,63.05690058,Only 1 match,1,25.495,not any,5,6,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+365,115,Alpha-2-HS-glycoprotein,1739.833479,2879.010618,4600.833532,-2,4600.881418,10.41 ppm,921.18356,156,61.02280702,29,1,26.349,not any,5,5,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+308,60,Alpha-2-HS-glycoprotein,1739.833479,2222.783005,3944.605919,0,3944.603294,-0.67 ppm,987.1581,156,60.00576023,46,1,24.684,not any,6,5,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+390,132,Alpha-2-HS-glycoprotein,1739.833479,2879.010618,4600.833532,0,4600.878618,9.8 ppm,921.183,156,57.97166667,37,1,27.109,not any,5,6,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+285,42,Alpha-2-HS-glycoprotein,1867.928442,2879.010618,4728.928495,-2,4728.910594,-3.79 ppm,1183.234925,156,57.11836257,34,1,24.113,not any,6,3,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+301,55,Alpha-2-HS-glycoprotein,1739.833479,1931.687589,3653.510503,0,3653.514894,1.2 ppm,914.386,156,56.95461988,Only 1 match,1,24.524,not any,6,4,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,1,0,None
+319,73,Alpha-2-HS-glycoprotein,1867.928442,2879.010618,4728.928495,-2,4728.882441,-9.74 ppm,789.15435,156,55.07842105,41,1,25.054,not any,5,5,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+327,80,Alpha-2-HS-glycoprotein,1867.928442,2587.915201,4437.833078,0,4437.833118,0.01 ppm,888.5739,156,55.07842105,Only 1 match,1,25.186,not any,5,4,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,2,0,None
+338,91,Alpha-2-HS-glycoprotein,1739.833479,2222.783005,3944.605919,-2,3944.591418,-3.68 ppm,789.92556,156,54.92052632,Only 1 match,1,25.44,not any,4,6,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,5,4,0,2,0,None
+300,54,Alpha-2-HS-glycoprotein,1867.928442,2879.010618,4728.928495,-2,4728.880418,-10.17 ppm,946.78336,156,54.05845029,22,1,24.491,not any,5,3,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+397,135,Alpha-2-HS-glycoprotein,1739.833479,2879.010618,4600.833532,-3,4600.845068,2.51 ppm,921.17629,156,53.90347953,26,1,27.293,not any,4,5,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+345,98,Alpha-2-HS-glycoprotein,1867.928442,2879.010618,4728.928495,-2,4728.880418,-10.17 ppm,946.78336,156,52.01850877,40,1,25.577,not any,5,4,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+363,112,Alpha-2-HS-glycoprotein,1739.833479,2879.010618,4600.833532,0,4600.878618,9.8 ppm,921.183,156,50.85233918,21,1,26.296,not any,3,6,L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+307,59,Alpha-2-HS-glycoprotein,1867.928442,2587.915201,4437.833078,0,4437.836094,0.68 ppm,1110.4663,156,49.97856725,Only 1 match,1,24.671,not any,7,0,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,2,0,None
+320,74,Alpha-2-HS-glycoprotein,1867.928442,2587.915201,4437.833078,-2,4437.797418,-8.04 ppm,888.56676,156,48.95859649,Only 1 match,1,25.071,not any,5,3,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,2,0,None
+311,63,Alpha-2-HS-glycoprotein,1867.928442,2879.010618,4728.928495,0,4728.894118,-7.27 ppm,946.7861,156,47.93862573,31,1,24.808,not any,6,0,K-L-C^carb'ed-P-D-C^carb'ed-P-L-L-A-P-L-N-D-S-R,6,5,0,3,0,None
+1671,360,Alpha-2-HS-glycoprotein,3015.56655,2587.915201,5585.471186,-2,5585.443794,-4.9 ppm,1397.368225,176,97.16591006,90,1,67.725,not any,6,17,V-V-H-A-V-E-V-A-L-A-T-F-N-A-E-S-N-G-S-Y-L-Q-L-V-E-I-S-R,6,5,0,2,0,None
+1695,377,Alpha-2-HS-glycoprotein,3015.56655,2879.010618,5876.566603,-2,5876.515394,-8.71 ppm,1470.136125,176,92.10518558,62,1,68.454,not any,4,18,V-V-H-A-V-E-V-A-L-A-T-F-N-A-E-S-N-G-S-Y-L-Q-L-V-E-I-S-R,6,5,0,3,0,None
+1692,375,Alpha-2-HS-glycoprotein,3015.56655,2587.915201,5585.471186,0,5585.381118,-16.13 ppm,1118.0835,176,67.81370807,33,1,68.391,not any,4,10,V-V-H-A-V-E-V-A-L-A-T-F-N-A-E-S-N-G-S-Y-L-Q-L-V-E-I-S-R,6,5,0,2,0,None
+1691,372,Alpha-2-HS-glycoprotein,3015.56655,2222.783005,5220.33899,0,5220.390894,9.94 ppm,1306.105,176,57.6922591,50,1,68.341,not any,5,5,V-V-H-A-V-E-V-A-L-A-T-F-N-A-E-S-N-G-S-Y-L-Q-L-V-E-I-S-R,5,4,0,2,0,None
+1070,264,Alpha-2-HS-glycoprotein,3015.56655,2222.783005,5220.33899,-2,5220.320994,-3.45 ppm,1306.087525,176,49.59509993,45,1,47.894,not any,3,7,V-V-H-A-V-E-V-A-L-A-T-F-N-A-E-S-N-G-S-Y-L-Q-L-V-E-I-S-R,5,4,0,2,0,None
+1660,358,Alpha-2-HS-glycoprotein,3015.56655,2897.046334,5894.602319,0,5894.555694,-7.91 ppm,1474.6462,176,49.59509993,Only 1 match,1,67.467,not any,1,9,V-V-H-A-V-E-V-A-L-A-T-F-N-A-E-S-N-G-S-Y-L-Q-L-V-E-I-S-R,7,5,3,1,0,None
+1689,370,Alpha-2-HS-glycoprotein,3015.56655,2587.915201,5585.471186,0,5585.380894,-16.17 ppm,1397.3525,176,47.57081014,22,1,68.314,not any,3,6,V-V-H-A-V-E-V-A-L-A-T-F-N-A-E-S-N-G-S-Y-L-Q-L-V-E-I-S-R,6,5,0,2,0,None
